@@ -121,9 +121,33 @@
 // let modulus = 20 % 3;
 // console.log(modulus);
 
-//Looping
-// for (let i=0; i < 10 ; i++) {
-//     console.log("Hello World");
+// Looping
+// for (let i=0; i < 10; i++) {
+//     console.log("Helo Reza");
 // }
 // console.log("Sudah Diluar Kondisi For");
 
+//While
+// let Score = 0;
+// while(Score < 5) {
+//     console.log("Halo World");
+//     Score++;
+// }
+// console.log("Sudah Diluar Kondsisi While");
+
+// for (let i = 0; i < 10; i++){
+//     console.log("Halo dunia");
+// }
+
+// let Score = 0;
+// while(Score < 10){
+//     console.log("Hello Duniaaaa")
+//     Score++
+// }
+
+// function Perkalian(a, b) {
+//   let i = a * b;
+//   console.log(i);
+// }
+
+// Perkalian(2, 5);

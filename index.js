@@ -88,7 +88,7 @@
 // console.log(quest[5]);
 // console.log(quest[2]);
 
-// key 
+// key
 // const person = {firstName:"John", lastName:"Doe", age:46};
 // console.log(person.firstName);
 // const question = {
@@ -137,7 +137,7 @@
 //attempts++;
 //if (guess > targetnum) {
 //guess = parseInt(prompt("Terlalu tinggi!, Tebak Lagi"))
-//} else () => { 
+//} else () => {
 //guess = parseInt(prompt("Terlalu rendah!, Tebak Lagi"))
 //}
 //}

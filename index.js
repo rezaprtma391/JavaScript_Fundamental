@@ -60,8 +60,8 @@
 
 // let result = perkalian(3, 3);
 // let result2 = perkalian(8, 3);
-// // console.log(result);
-// // console.log(result2);
+// console.log(result);
+// console.log(result2);
 
 // function coba(angka1, angka2, angka3) {
 //   return (angka1*angka2) / angka3;
@@ -75,12 +75,12 @@
 // let desimal = 0.5 // double / float
 // let kata = 'Ini kata'; // string
 
-// // tipe non pritif
-// // 0
+// tipe non pritif
+// 0
 // const cars = ["Saab", "Volvo", "BMW"];
 // const quest = ["belajar", "suka", "myskill", "saya", "sangat", "di"];
-// // indeks ke 2 bukan data ke dua
-// // console.log(cars[2]);
+// indeks ke 2 bukan data ke dua
+// console.log(cars[2]);
 // console.log(quest[3]);
 // console.log(quest[4]);
 // console.log(quest[1]);
@@ -115,7 +115,7 @@
 // // console.log(3);
 
 // for (let i = 1; i < 1000; i++) {
-//   console.log("The number is " + i);
+// console.log("The number is " + i);
 // }
 
 // const kata = "ini kata baru";
@@ -124,7 +124,7 @@
 
 //let maximum = parseInt(prompt("Masukan Nilai Maksimal"));
 //while (!maximum) {
-  //maximum = parseInt(prompt("Masukan Nilai Maksimal"));
+//maximum = parseInt(prompt("Masukan Nilai Maksimal"));
 //}
 
 //const targetnum = math.floor(Math.random() * maximum) + 1;
@@ -134,12 +134,12 @@
 //let attempts= 1;
 
 //while (parseInt(guess) !== targetnum) {
-  //attempts++;
-  //if (guess > targetnum) {
-    //guess = parseInt(prompt("Terlalu tinggi!, Tebak Lagi"))
-  //} else () => { 
-    //guess = parseInt(prompt("Terlalu rendah!, Tebak Lagi"))
-  //}
+//attempts++;
+//if (guess > targetnum) {
+//guess = parseInt(prompt("Terlalu tinggi!, Tebak Lagi"))
+//} else () => { 
+//guess = parseInt(prompt("Terlalu rendah!, Tebak Lagi"))
+//}
 //}
 
 //alert(`Selamat Tebakan Anda Benar!, Dengan Percobaan ${attempts}`);
@@ -147,10 +147,10 @@
 //let nilai = 70
 
 //if ( nilai > 70) {
-  //console.log("Bagus");
+//console.log("Bagus");
 //} else (nilai < 65); {
-  //console.log('Kurang')
+//console.log('Kurang')
 //}
 
-const ppMikey = [];
-ppMikey.push = "Kontol";
+// const ppMikey = [];
+// ppMikey.push = "Kontol";

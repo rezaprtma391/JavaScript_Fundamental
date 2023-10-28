@@ -1,12 +1,12 @@
-let angka1 = 1
-let angka2 = 3
-let tambah = angka1 + angka2
+// let angka1 = 1
+// let angka2 = 3
+// let tambah = angka1 + angka2
 
-tambah
+// tambah
 //function
-function pertambahan (a, b) {
-    let tambah = a + b
-    console.log(tambah)
-}
+// function pertambahan (a, b) {
+//     let tambah = a + b
+//     console.log(tambah)
+// }
 
-pertambahan(5, 5)
+// pertambahan(5, 5)

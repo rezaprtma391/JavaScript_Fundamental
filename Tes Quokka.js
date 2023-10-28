@@ -1,17 +1,17 @@
-let Orang = {
-    Name: "Reza",
-    Kelas: "Malam"
-}
+// let Orang = {
+//     Name: "Reza",
+//     Kelas: "Malam"
+// }
 
-console.log(Orang);
+// console.log(Orang);
 
-let buah = ["Nanas, Apel, Kiwi"]
+// let buah = ["Nanas, Apel, Kiwi"]
 
-console.log(buah)
+// console.log(buah)
 
-function pembagian(a, b, c) {
-    let bagi = a / b / c
-    console.log(bagi)
-}
+// function pembagian(a, b, c) {
+//     let bagi = a / b / c
+//     console.log(bagi)
+// }
 
-pembagian(20,2,2)
+// pembagian(20,2,2)

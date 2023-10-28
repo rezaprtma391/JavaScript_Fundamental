@@ -149,5 +149,14 @@
 //   let i = a * b;
 //   console.log(i);
 // }
-
 // Perkalian(2, 5);
+
+// for(let i = 0; i < 10; i++){
+//     console.log("Halo Dunia");
+// }
+
+let i = 0;
+while(i < 100){
+    console.log(i);
+    i++;
+}

@@ -168,3 +168,4 @@
 
 // console.log(orang.nama);
 // console.log(orang.usia);
+

@@ -160,3 +160,11 @@
 //     console.log(i);
 //     i++;
 // }
+
+// let orang = {
+//     nama: "reza",
+//     usia: 19
+// }
+
+// console.log(orang.nama);
+// console.log(orang.usia);

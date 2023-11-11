@@ -85,6 +85,155 @@
 //     console.log("Harga dan Jumlah Barang tidak memenuhi kriteria diskon");
 // };
 
-let coba = 4 === "4";
+// let coba = 4 === "4";
 
-console.log(coba);
+// console.log(coba);
+
+// let i = 100
+
+// for(i=100; i > 0; i--){
+//     console.log(i)
+// };
+//Looping for of
+// let myArray = ["Reza, Noval, Eko, Arif"];
+
+// for(let arrayItem of myArray){
+//     console.log(arrayItem.toUpperCase())
+// };
+
+// console.log(myArray);
+
+//Looping For dan While
+// let i = 1;
+
+// while(i <= 100) {
+//     console.log(i);
+//     i++;
+// }
+
+// for(i=1; i < 100; i++){
+//     console.log(i);
+// }
+
+// function perkalian(x, y){
+//     let hasil = x * y;
+//     console.log(hasil);
+// }
+
+// perkalian(10, 5);
+
+
+// function perkalian(x, y){
+//     return x * y;
+// }
+
+// let adalah = perkalian(10, 5);
+
+//Do while
+// let i = 1;
+
+// do{
+//     console.log(i);
+//     i++
+// }while(i <= 100);
+
+// let firstName = "John";
+// let lastName = "Doe";
+// let age = 25;
+// let isMarried = true;
+
+// console.log(firstName, lastName, age, isMarried);
+
+// let score = 55;
+
+// if(score > 90){
+//     console.log("Selamat anda mendapatkan nilai A");
+//   } else if (score > 80) {
+//     console.log("Anda mendapatkan nilai B")
+//   } else if (score > 70){
+//     console.log("Anda mendapatkan nilai C")
+//   } else if (score > 60){
+//     console.log("Anda mendapatkan nilai D")
+//   } else {
+//     console.log("Anda mendapatkan nilai E")
+//   }
+
+// const car = {
+//     brand: 'Toyota',
+//     model: null,
+// }
+
+// const car2 = {
+//     brand: 'Honda',
+//     model: undefined,
+// }
+
+// console.log(car);
+// console.log(car2);
+
+// const carJson = JSON.stringify(car);
+// const carJson2 = JSON.stringify(car2);
+
+// console.log(carJson);
+// console.log(carJson2);
+
+// let a = 5;
+
+// a += 10;
+
+// console.log(a);
+
+// const  orang = {
+//     nama: "Muhamad Reza Pratama",
+//     umur: 34,
+//     pekerjaan: "Web Developer",
+//     "Hobi": "Futsal"
+// }
+
+// delete orang["Hobi"]
+
+// console.log(orang)
+// orang = {nama: "Reza"}
+// console.log(orang.nama)
+
+// orang.pekerjaan = "Back-End"
+// orang["Hobi"] = "Ngoding"
+// console.log(orang.pekerjaan);
+// console.log(orang["Hobi"])
+
+
+
+// console.log(`Nama Saya Adalah ${orang.nama} Dan Hobi Saya Adalah ${orang["Hobi"]}`)
+
+
+// let character = {firstname, lastname, ...restData} = {
+//     firstname: "Reza",
+//     age: 19,
+//     lastname: "Pratama",
+//     Hoby: "Ngoding"
+// }
+
+// console.log(firstname)
+// console.log(lastname)
+// console.log(restData)
+
+// let buah = ["Apple" , "Mango", "Strawberry"];
+// let buahKedua = ["Semangka", "Jeruk"];
+
+// let Hasil = [...buah, ...buahKedua]
+// // buah.push("Semangka");
+// // buah.pop()
+
+// // buah.shift()
+// // buah.unshift("Apple")
+
+// // delete buah[1]
+// // buah.splice(1)
+// console.log(Hasil)
+// console.log(...buahbuah);
+
+let buah = ["Apel"]
+
+let [Fruit1, Herfruit = "Semangka"] = buah
+
+console.log(Fruit1, Herfruit)

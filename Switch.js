@@ -232,8 +232,79 @@
 // console.log(Hasil)
 // console.log(...buahbuah);
 
-let buah = ["Apel"]
+// let buah = ["Apel"]
 
-let [Fruit1, Herfruit = "Semangka"] = buah
+// let [Fruit1, Herfruit = "Semangka"] = buah
 
-console.log(Fruit1, Herfruit)
+// console.log(Fruit1, Herfruit)
+
+// let myMap = new Map([
+//     ['a', 'b'],
+//     ['c', 'd'],
+//     [true, true]
+// ]);
+
+// console.log(myMap)
+
+
+// const myMap = new Map([
+//     ['1', 'a String key'],
+//     [1, 'a number key'],
+//     [true, true]
+//   ]);
+
+// const capital = new Map([
+//     ["Jakarta", "Indonesia"],
+//     ["London", "England"],
+//     ["Tokyo", "Japan"]
+//   ]);
+  
+// console.log(capital.size) //3
+// console.log(capital.get("London")) //England
+// capital.set("New Delhi", "India")
+// console.log(capital.size) //4
+// console.log(capital.get("New Delhi")) //India
+// capital.set("Kuala Lumpur", "Malaysia")
+// console.log(capital.size)
+// console.log(capital.get("Kuala Lumpur")
+
+// for (let i = 0; i < 10; i++) {
+
+//     // jika true, lewati sisa kode dan lanjut ke loop berikutnya
+    
+//     if (i %  2== 0) continue;
+    
+//     console.log(i);
+    
+//     }
+
+// let car = {
+//     brand: "Toyota",
+//     model: "Corolla",
+//     "Jumlah Roda": 4
+// };
+
+// console.log(car["Jumlah Roda"])
+
+// function sum(a, b){
+//    return a + b;
+// }
+
+// console.log(sum(5,6))
+
+// let buah = "Buah Naga";
+
+// console.log(buah.slice(5, 9))
+
+
+// let sayHello = (Hello) => {
+//     console.log("Hello Reza")
+// };
+// sayHello()
+
+// let panggil = () => console.log("Selmat pagi")
+
+// panggil()
+
+const multiply = (a, b) => a + b;
+console.log(multiply(3, 4));

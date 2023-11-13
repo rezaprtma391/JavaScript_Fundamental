@@ -306,5 +306,5 @@
 
 // panggil()
 
-const multiply = (a, b) => a + b;
-console.log(multiply(3, 4));
+// const multiply = (a, b) => a + b;
+// console.log(multiply(3, 4));

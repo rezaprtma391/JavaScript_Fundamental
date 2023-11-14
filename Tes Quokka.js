@@ -48,18 +48,18 @@
 // console.log(minimal(3, 2));
 // console.log(minimal(3, 3));
 
-// // function findIndex (array , number) {
-// //     for (let i = 0; i < arr.length; i++) {
-// //         if (arr[i] === number) {
-// //             return i;
-// //         }
-// //     }
-// //     return -1;
-// // }
+// function findIndex (array , number) {
+//     for (let i = 0; i < arr.length; i++) {
+//         if (arr[i] === number) {
+//             return i;
+//         }
+//     }
+//     return -1;
+// }
 
-// // console.log(findIndex([1, 2, 3, 4, 5], 3)); 
-// // console.log(findIndex([1, 2, 3, 4, 5], 6)); 
-// // console.log(findIndex([1, 2, 3, 4, 5], 5));
+// console.log(findIndex([1, 2, 3, 4, 5], 3)); 
+// console.log(findIndex([1, 2, 3, 4, 5], 6)); 
+// console.log(findIndex([1, 2, 3, 4, 5], 5));
 
 // function findIndex(arr, number) {
 //     for (let i = 0; i < arr.length; i++) {
